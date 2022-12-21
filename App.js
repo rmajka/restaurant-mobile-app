@@ -18,3 +18,4 @@ const navigator = createStackNavigator(
 );
 
 export default createAppContainer(navigator);
+/*this is a navigation and entry point*/
